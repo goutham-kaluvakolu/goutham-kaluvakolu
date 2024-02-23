@@ -1,7 +1,7 @@
 ### Hi, Im Goutham 👋
 
 - 🔭 Working on the CustomTee project more details in the repo
-- 🌱 I’m currently Three.js, AR
+- 🌱 I’m currently learning Three.js, AR
 - 👯 I’m looking to collaborate on AR
 - 🤔 I’m looking for help with any kind of software development
 - 📫 How to reach me: https://www.linkedin.com/in/goutham-kumar-reddy-kaluvakolu/
